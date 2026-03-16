@@ -1,0 +1,4 @@
+{"scripts": {
+  "test": "npm test --prefix client"
+}
+}
