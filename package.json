@@ -1,4 +1,1 @@
-{"scripts": {
-  "test": "npm test --prefix client"
-}
-}
+{"scripts":{"test":"npm test --prefix client"},"devDependencies":{"gh-pages":"^6.3.0"}}

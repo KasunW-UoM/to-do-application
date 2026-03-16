@@ -42,10 +42,6 @@ Single-page React UI with:
 
 From the project root:
 
-```bash
-docker compose up --build
-```
-
 Open the app at:
 
 - Frontend: `http://localhost:4173`
